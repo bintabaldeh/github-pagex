@@ -5,7 +5,7 @@ function butttonElement1Click() {
   imageElement.src="https://www.gstatic.com/webp/gallery3/1.sm.png"
 }
 buttonElement1.addEventListener("click", butttonElement1Click);
-function buttonElement2Click() {
+function buttonElementClick() {
   imageElement.src="https://www.gstatic.com/webp/gallery/4.sm.jpg"
 }
-buttonElement2.addEventListener("click", buttonElement2Click);
+buttonElement2.addEventListener("click", buttonElementClick);  
